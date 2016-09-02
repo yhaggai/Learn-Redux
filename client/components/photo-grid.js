@@ -12,3 +12,4 @@ class PhotoGrid extends React.Component {
 }
 
 export default PhotoGrid;
+
