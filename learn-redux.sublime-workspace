@@ -1,0 +1,2646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"action",
+				"actionCreators"
+			],
+			[
+				"rou",
+				"routerReducer"
+			],
+			[
+				"root",
+				"rootReducer"
+			],
+			[
+				"p",
+				"Proxy"
+			],
+			[
+				"photo",
+				"PhotoGrid"
+			],
+			[
+				"pho",
+				"PhotoGrid"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"Rou",
+				"Router"
+			],
+			[
+				"react-",
+				"react-router"
+			],
+			[
+				"fun",
+				"function	keyword"
+			],
+			[
+				"cre",
+				"createClass	function"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"total",
+				"totalActivityTime"
+			],
+			[
+				"ses",
+				"sessionId"
+			],
+			[
+				"is",
+				"isFavorite"
+			],
+			[
+				"isF",
+				"is_finished_processing"
+			],
+			[
+				"jaco",
+				"jacoSession"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"idle",
+				"idleTimes"
+			],
+			[
+				"full",
+				"fullEventsURL"
+			],
+			[
+				"s3_",
+				"s3_key"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"fa",
+				"favorite"
+			],
+			[
+				"session",
+				"sessionUserInfo"
+			],
+			[
+				"newW",
+				"newWidht"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"current",
+				"currentWindowSize"
+			],
+			[
+				"widthD",
+				"widthDiff"
+			],
+			[
+				"isSess",
+				"isSessionReadyForEndPostProcessing"
+			],
+			[
+				"event",
+				"event_count"
+			],
+			[
+				"cu",
+				"currStep"
+			],
+			[
+				"N",
+				"NUMBER_OF_EVENT_LIMIT"
+			],
+			[
+				"ev",
+				"eventCounter"
+			],
+			[
+				"even",
+				"eventCounter"
+			],
+			[
+				"last",
+				"userLastEvent"
+			],
+			[
+				"evn",
+				"events"
+			],
+			[
+				"time",
+				"timeEnd"
+			],
+			[
+				"_is",
+				"_isFirstMoveEvent"
+			],
+			[
+				"_touch",
+				"_onTouchStart"
+			],
+			[
+				"device",
+				"device_type"
+			],
+			[
+				"col",
+				"collaborator_id"
+			],
+			[
+				"Cus",
+				"Customer"
+			],
+			[
+				"pr",
+				"project_id"
+			],
+			[
+				"remove",
+				"removeProject"
+			],
+			[
+				"_h",
+				"_handleTouchEndOrCancel"
+			],
+			[
+				"_",
+				"_onTouchStart"
+			],
+			[
+				"T",
+				"TOUCH_MOVE"
+			],
+			[
+				"TOUCH",
+				"TOUCH_START"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"lis",
+				"listenToQueue"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ip",
+				"ipRegexInput"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"_add",
+				"_addCensor"
+			],
+			[
+				"do",
+				"domNode"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"proj",
+				"projectId"
+			],
+			[
+				"us",
+				"UnsubscribePage"
+			],
+			[
+				"getdail",
+				"getDailyInterestingSessions"
+			],
+			[
+				"get",
+				"getUnsubscribeUrl"
+			],
+			[
+				"email",
+				"emailType"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"minu",
+				"minimumSessions"
+			],
+			[
+				"act",
+				"activity_time_in_milliseconds"
+			],
+			[
+				"sess",
+				"sessionAttributeValue"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"num",
+				"numberOfUsers"
+			],
+			[
+				"should",
+				"shouldShowWarningMessage"
+			],
+			[
+				"shoul",
+				"shouldShowSnippetWarning"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"sp",
+				"splice"
+			],
+			[
+				"fie",
+				"fieldName"
+			],
+			[
+				"bo",
+				"browser"
+			],
+			[
+				"max",
+				"maxLength"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"count",
+				"countArray"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"math",
+				"matchPlanDescription"
+			],
+			[
+				"WE",
+				"WEEKLY"
+			],
+			[
+				"plan",
+				"planName"
+			],
+			[
+				"ma",
+				"mailRequestParams"
+			],
+			[
+				"c",
+				"collaborator"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"template",
+				"templateName"
+			],
+			[
+				"em",
+				"emailStatus"
+			],
+			[
+				"mail",
+				"MailRequest"
+			],
+			[
+				"cosn",
+				"console"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"isn",
+				"is_new"
+			],
+			[
+				"solr",
+				"solrClient"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"s",
+				"subscriptionName"
+			],
+			[
+				"ema",
+				"emailData"
+			],
+			[
+				"cnos",
+				"console"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"coll",
+				"collaborator"
+			],
+			[
+				"coo",
+				"collaborator"
+			],
+			[
+				"tem",
+				"templateParameters"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"mand",
+				"mandrillHelper"
+			],
+			[
+				"sol",
+				"solrConfig"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"user",
+				"userWeeklyData"
+			],
+			[
+				"prom",
+				"Promise"
+			],
+			[
+				"cl",
+				"clients"
+			],
+			[
+				"clie",
+				"client"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"traf",
+				"trafficDetails"
+			],
+			[
+				"init",
+				"intialValue"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"DEL",
+				"DATA_DELMITER"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"Sw",
+				"SwipeAction"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"fil",
+				"fieldName"
+			],
+			[
+				"fi",
+				"fieldName"
+			],
+			[
+				"projec",
+				"projectName"
+			],
+			[
+				"font-",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/reduxstagram.js",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/components/main.js",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import { bindActionCreators } from 'redux';\nimport { connect } from 'react-redux';\nimport *  as actionCreators from '../actions/actionCreators';\nimport Main from './Main';\n\n\nfunction mapStateToProps(state){\n  return {\n    posts: state.posts,\n    commnets: state.comments\n  }\n}\nfunction mapDispatchToProps(dispatch){\n  return bindActionCreators(actionCreators, dispatch);\n}\n\nconst App = connect(mapStateToProps, mapDispatchToProps);\n\nexport default App;\n",
+			"file": "client/components/app.js",
+			"file_size": 452,
+			"file_write_time": 131172811720000000,
+			"settings":
+			{
+				"buffer_size": 453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/reducers/posts.js",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "new file",
+		"selected_items":
+		[
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new fiel",
+				"File: New File Relative to Current View"
+			],
+			[
+				"rne",
+				"File: Rename"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"covner",
+				"Convert Case: camelCase"
+			],
+			[
+				"expand",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"new fle",
+				"File: New File Relative to Current View"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"josn",
+				"Pretty JSON: Validate"
+			],
+			[
+				"new file ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"name",
+				"File: Copy Name"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"git diff",
+				"git: diff"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"justi",
+				"CSV: Justify columns"
+			],
+			[
+				"decode",
+				"URL Decode"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"git diff ",
+				"git: diff"
+			],
+			[
+				"git diff cure",
+				"Git: Diff Current File"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"snak",
+				"Convert Case: snake_case"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"new fol",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"new folde",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"new fie",
+				"File: New File Relative to Current View"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"conver",
+				"Convert Case: snake_case"
+			],
+			[
+				"convert_s",
+				"Convert Case: snake_case"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"convert",
+				"Convert Case: camelCase"
+			],
+			[
+				"conve",
+				"Convert Case: camelCase"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"renem",
+				"File: Rename"
+			],
+			[
+				"nam",
+				"File: Copy Name"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"git diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"set syntax coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"text",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"git checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"bookma",
+				"Bookmarks: Toggle"
+			],
+			[
+				"bookm",
+				"Bookmarks: Toggle"
+			],
+			[
+				"na",
+				"File: Copy Name"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"convert lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"covnert l",
+				"Convert Case: Lower Case"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"new fiel ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"dlet",
+				"File: Delete"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff cure",
+				"Git: Diff Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"newfiel",
+				"File: New File Relative to Current View"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"new fe",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"git cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"decre",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"namer",
+				"Set Syntax: LaTeX Beamer"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"les",
+				"Set Syntax: LESS"
+			],
+			[
+				"con",
+				"Convert Case: camelCase"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"new foler",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"moev ",
+				"File: Move"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"renma",
+				"File: Rename"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"nae",
+				"File: Copy Name"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"conver sn",
+				"Convert Case: snake_case"
+			],
+			[
+				"sna",
+				"Convert Case: snake_case"
+			],
+			[
+				"convert_",
+				"Convert Case: snake_case"
+			],
+			[
+				"va",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"conve_",
+				"Convert Case: snake_case"
+			],
+			[
+				"conver_",
+				"Convert Case: snake_case"
+			],
+			[
+				"git diff cue",
+				"Git: Diff Current File"
+			],
+			[
+				"git cure",
+				"Git: Add Current File"
+			],
+			[
+				"git curre",
+				"Git: Diff Current File"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"convert s",
+				"Convert Case: snake_case"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"json ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gitk",
+				"Git: Gitk"
+			],
+			[
+				"new filer",
+				"File: New File Relative to Current View"
+			],
+			[
+				"js ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"new fiol",
+				"File: New File Relative to Current View"
+			],
+			[
+				"closin",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"valid",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"cov",
+				"Convert Case: camelCase"
+			],
+			[
+				"copy n",
+				"File: Copy Name"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 268.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haggaiyaniv/dev/Learn-Redux",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/components",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/data",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/reducers"
+	],
+	"file_history":
+	[
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/store.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/reducers/posts.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/reducers/comments.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/reducers/index.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/actions/action_creators.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/data/comments.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/data/config.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/data/posts.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/components/main.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/components/single.js",
+		"/Users/haggaiyaniv/dev/Learn-Redux/client/components/photo-grid.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/assets_server/app/controllers/assets.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/deserializers/nodes/style_node.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/helpers/asset_url_helper.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_compressed_events/src/compressed_events.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_compressed_events/src/converter/flatbuffer_event_to_array.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_compressed_events/src/handlers/0.3.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_compressed_events/src/handlers/body.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/views/layouts/player.jade",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/config/browserify-shim.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/views/layouts/backoffice.jade",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/bower_components/jquery/dist/jquery.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/delayed_work/src/jobs/intercom/create_or_update_user.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/components/tabs/tab.less",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/node_modules/.staging/@jaco/dal-5ae4c4c6d4513f66e12325152573ebd0/src/models/session.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/controllers/api/3.2/sessions_controller.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/src/models/session.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_client/src/recorder_web_worker_v4.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_api/controllers/api/3.4/recordings_controller.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/serializers/api/3.2/session_serializer.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/static_fields.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/fields.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/field.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/field_value_component_factory.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/autocomplete/autocomplete_parsers.coffee",
+		"/Users/haggaiyaniv/.zshrc",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/node_modules/.staging/@jaco/recorder_client-377d2223211f9d4eeaebf77404e70b01/src/recorder_web_worker_v4.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/settings/pages/subscription_page/choose_plan/choose_plan.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/object_accessors/src/flatbuffers/vendor/flatbuffers.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/readme.md",
+		"/Users/haggaiyaniv/Downloads/jaco_864967_sessions_export_2016-08-21_05_14.csv",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/delayed_work/src/jobs/export_sessions/upload_and_mail_session_csv_file.js",
+		"/Users/haggaiyaniv/Downloads/jaco_268653_sessions_export_2016-08-21_12_15.csv",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/session_events_collection.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/object_accessors/src/flatbuffers/events_generated.js",
+		"/Users/haggaiyaniv/Downloads/refacotr/after-refactor.txt",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/controllers/sessions_controller.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/static_operators.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/migrations/solr/sessions_by_session_id/schema.xml",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/schema.xml",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/autocomplete_component/autocomplete_parsers.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/autocomplete/field_value_autocomplete_map.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/src/models/session_by_session_id.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/services/session_processing_scheduler/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_api/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_timeline_events/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_session_post_processing/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_mail_message/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_identify_events/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_full_session_events/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/node_modules/.staging/@jaco/dal-5ae4c4c6d4513f66e12325152573ebd0/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/package.json",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/node_modules/.staging/@jaco/dal-5ae4c4c6d4513f66e12325152573ebd0/src/models/base_session.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/src/models/base_session.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/controllers/api/3.2/autocomplete_controller.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/node_modules/.staging/@jaco/dal-5ae4c4c6d4513f66e12325152573ebd0/src/models/projects_event_action_and_event_data.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/new_filter_menu/new_filter_menu.less",
+		"/Users/haggaiyaniv/dev/react-typescript-boilerplate/app/index.tsx",
+		"/Users/haggaiyaniv/dev/React-For-Beginners-Starter-Files/code/scripts/.eslintrc",
+		"/Users/haggaiyaniv/dev/React-For-Beginners-Starter-Files/code/scripts/.eslintrc.js",
+		"/Users/haggaiyaniv/Downloads/jaco-playground_All Sessions_2016-08-10_12_39.csv",
+		"/Users/haggaiyaniv/Downloads/jaco-playground_All Sessions_2016-08-10_01_09.csv",
+		"/Users/haggaiyaniv/Downloads/jaco-playground_All Sessions_2016-08-10_02_17.csv",
+		"/Users/haggaiyaniv/Downloads/jaco-playground_All Sessions_2016-08-10_02_12.csv",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/controllers/sessions_controller.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/helpers/staging_detection_helpers.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/controllers/replay_controller.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/gulp/tasks/db/migrate/intercom_migration.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_mail_message/src/helpers/projects_data_retrieval.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/services/throttling/app/controllers/resource_controller.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/settings/settings_page_factory.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/project_throttling.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/settings/pages/traffic_management_page/traffic_management_page.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/settings/pages/traffic_management_page/traffic_details/traffic_details_view.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/settings/pages/traffic_management_page/traffic_details/traffic_details_view.jade",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/services/throttling/app/models/throttling_counters_by_resource_id.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/services/throttling/app/models/base_model.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/assets_server/lib/cassandra/model.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/services/throttling/app/models/throttling_definitions_by_resource_id.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_api/lib/throttling_service_helpers.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/src/models/event.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/Dockerfile",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/Dockerfile.dev",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/consumers/consumer_mail_message/src/helpers/mail_data_retriever.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/routes/backoffice/api/3.2/customer/index.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/controllers/intercom_controller.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/session_events_component/session_events_component.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/sessions_table/cells/user_info_cell.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/replayer_component.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/sessions_collection.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/sessions_table/cells/favorite_and_notes_cell.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/components/favorite_button/favorite_button.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/sessions/components/sessions_table/cells/date_cell.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/migrations/create_projects_event_actions_and_event_data_and_count.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/migrations/create_projects_event_actions_and_event_data.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/serializers/api/3.2/collaborator_serializer.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/wascally-helpers/config/files/rabbitmq/defaults.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/dal/src/models/shared_session_by_token.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/routes/shared/index.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/middlewares/authentication/guest_collaborator_authentication.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice1 2016-07-26T12:47:03.323940892Z      se",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/shared_session_user_info.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/session_info.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/routes.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/timeline_events_collection.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/dom_snapshot.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/events_handlers_dictionary.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/components/replayer_header/replayer_header.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player_ui.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/replay_simulator.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/models/session_user_info.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_client/src/recording/observers/viewport_observer.js",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/window_close.coffee",
+		"/Users/haggaiyaniv/dev/ruadan_single_repo/backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/viewport.coffee"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"*.*",
+			"*.jade",
+			"*.js",
+			"*.*",
+			"/Users/haggaiyaniv/dev/ruadan_single_repo/recorder_client",
+			"*.jade",
+			"*.less",
+			"*.coffee",
+			"*.less",
+			"*.coffee",
+			"*.jade",
+			"*.less",
+			"*.*",
+			"*.jade",
+			"*.coffee",
+			"*.coffeee",
+			"*.jade",
+			"*.less",
+			"*.*",
+			"*.coffee",
+			"*.jade",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.json",
+			"*.js",
+			"*.חד",
+			"*.coffee",
+			"*.*",
+			"*.jade",
+			"*.coffee",
+			"*.jade",
+			"*.coffee",
+			"*.jade",
+			"*.coffee",
+			"*.js",
+			"*.json",
+			"*.coffee",
+			"*.json",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.sj",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.json",
+			"*.js",
+			"*.json",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.less",
+			"*.coffee",
+			"*.jade",
+			"*.*",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"**",
+			"*.json",
+			"*.coffee",
+			"*.json",
+			"*.less",
+			"*.json",
+			"*.json]",
+			"*.*",
+			"*.less",
+			"*.*",
+			"*.jade",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"*.js",
+			"*.coffee",
+			"*.json",
+			"*.less",
+			"*.json",
+			"*.coffee",
+			"*.*",
+			"*.less",
+			"*.coffee",
+			"*.*",
+			"*.js",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.js",
+			"*.json",
+			"*.*",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.json",
+			"*.coffee",
+			"*.json",
+			"*.*",
+			"package.js",
+			"package.json",
+			"*.js",
+			"package.json",
+			"*.json",
+			"*.js",
+			"*.json",
+			"*.js",
+			"*.json",
+			"*.*",
+			"*.js",
+			"*.coffee",
+			"*.jade",
+			"*.coffee",
+			"*.less",
+			"*.coffee",
+			"*.less",
+			"*.coffee",
+			"*.jade"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onboarding",
+			"browserHistory",
+			"rootReducer",
+			"rootRedcuer",
+			"applyMiddleware",
+			"history",
+			"combineReducers",
+			"posts",
+			"function",
+			",",
+			"defaultState",
+			"comments",
+			"compoeent",
+			"Main",
+			"Single",
+			"single",
+			"Single",
+			"kaka",
+			"pako.gzip",
+			"pako.",
+			"parsedEvents",
+			"convertData",
+			"flatbufferData",
+			"getEventDataByType",
+			"convertData",
+			"extractAndParseValue",
+			"flatbufferEvent",
+			"assets_server_missing_assets",
+			"matches",
+			"URL_REGEX",
+			"matches",
+			"URL_REGEX",
+			"asset-ser",
+			"getAssetServerUrl",
+			"assetServerUrl",
+			"assetServerURL",
+			"asset_server_url",
+			"ASSET_SERVER_HTTP_HOST",
+			"backoffice_jquery",
+			"jquery",
+			"An email must be provided",
+			"count",
+			"renderOrder",
+			"const ord",
+			"order",
+			"Inventory",
+			"props",
+			"Invetory",
+			"Header",
+			"form",
+			"combinedLines",
+			"deleteFromTimelineBySessionId",
+			"const",
+			"=",
+			"project_id",
+			"bind",
+			"staging",
+			"inline_manual.jade",
+			"set a new password",
+			"please change",
+			"unknown dataType",
+			"jaco-icon-before",
+			".jaco-icon-before",
+			"icon-icon-hamburger",
+			"ham",
+			"setSettingsState",
+			"settingsEnabled",
+			"setSettingsState",
+			"after",
+			"segmentName",
+			"ui:",
+			"ui",
+			"SegmentNameButton",
+			"segmentNameButton",
+			"SegmentNameButton",
+			"ButtonPopdown",
+			"buttonPopdown",
+			"SegmentNameButton",
+			"segmentNameButton",
+			"SegmentNameButton",
+			"segment_name_button.coffee",
+			"SegmentNameButton",
+			"template:",
+			"segment-name-button",
+			"segment-name",
+			".segment-name",
+			"before",
+			".segment-name",
+			"timeline_events_by_session_id",
+			"timeline_events_by_session_id.coffee",
+			"icon-add-note",
+			"jaco-icon-before",
+			"icon-icon-hamburger",
+			"icon-add-note",
+			"icon-jaco-eye",
+			"icon-icon-hamburger",
+			"jaco-icon-before",
+			"_showCurrentSegment",
+			"currentSegmentView",
+			"CurrentSegmentView",
+			"current_segment.coffee",
+			"CurrentSegment",
+			"FiltersLayout",
+			"isOrdered",
+			"isEnabled",
+			"FiltersToggleButton",
+			"filters_toggle_button.coffee",
+			"filters-toggle-button__label",
+			"tab__item",
+			".settings-enabled",
+			".login-and-onboarding",
+			"weird",
+			"topClickResultsContainsParser",
+			"delimters",
+			"selectorFilterRegex",
+			"selectorParser",
+			"clickModifiersToDelimiters",
+			"AutocompleteParsers",
+			"autocompleteParser",
+			"aida.varaskeviciute@gmail.com",
+			"sessionScore",
+			"FIELDS_TO_EXPORT_ON_CSV_FILES",
+			"our_score",
+			"'",
+			"builder.dataBuffer",
+			"daysRemaining",
+			"your trial ends",
+			"your trial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/reduxstagram.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										365,
+										366
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										341,
+										342
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"git_savvy.file_path": "/Users/haggaiyaniv/dev/Learn-Redux/client/reduxstagram.js",
+							"git_savvy.repo_path": "/Users/haggaiyaniv/dev/Learn-Redux",
+							"is_xml": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/components/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										304,
+										305
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										141,
+										142
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"git_savvy.file_path": "/Users/haggaiyaniv/dev/Learn-Redux/client/components/main.js",
+							"git_savvy.repo_path": "/Users/haggaiyaniv/dev/Learn-Redux",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/components/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										371,
+										372
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										314,
+										315
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"git_savvy.file_path": "/Users/haggaiyaniv/dev/Learn-Redux/client/components/app.js",
+							"git_savvy.repo_path": "/Users/haggaiyaniv/dev/Learn-Redux",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/reducers/posts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										352,
+										353
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										265,
+										266
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"git_savvy.file_path": "/Users/haggaiyaniv/dev/Learn-Redux/client/reducers/posts.js",
+							"git_savvy.repo_path": "/Users/haggaiyaniv/dev/Learn-Redux",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 120.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "Packages/User/coffee.sublime-build",
+	"project": "learn-redux.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"client/store.js"
+			],
+			[
+				"reducer/index",
+				"client/reducers/index.js"
+			],
+			[
+				"flatbuffereventtoarray",
+				"consumers/consumer_compressed_events/src/converter/flatbuffer_event_to_array.js"
+			],
+			[
+				"compress",
+				"consumers/consumer_compressed_events/src/compressed_events.js"
+			],
+			[
+				"asset_url_helper.js",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/helpers/asset_url_helper.js"
+			],
+			[
+				"backoffice_jquery.js",
+				"backoffice/bower_components/jquery/dist/jquery.js"
+			],
+			[
+				"create_or_update_use",
+				"consumers/delayed_work/src/jobs/intercom/create_or_update_user.js"
+			],
+			[
+				"0.3",
+				"consumers/consumer_compressed_events/src/handlers/0.3.js"
+			],
+			[
+				"segment_n",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/segment_name_button.less"
+			],
+			[
+				"jaco_fon",
+				"backoffice/app/assets/ui/css/fonts/jaco_icons_font.less"
+			],
+			[
+				"inline_manual.jade",
+				"backoffice/app/views/layouts/components/inline_manual.jade"
+			],
+			[
+				"jaco_font",
+				"backoffice/app/assets/ui/css/fonts/jaco_icons_font.less"
+			],
+			[
+				"segment_name_button.jade",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/segment_name_button.jade"
+			],
+			[
+				"current_segment.jade",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/current_segment.jade"
+			],
+			[
+				"segment_name_button.less",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/segment_name_button.less"
+			],
+			[
+				"iconless",
+				"backoffice/app/assets/ui/css/fonts/jaco_icons_font.less"
+			],
+			[
+				"segment",
+				"backoffice/app/assets/ui/models/segment.coffee"
+			],
+			[
+				"r",
+				"readme.md"
+			],
+			[
+				"0.3.j",
+				"consumers/consumer_compressed_events/src/handlers/0.3.js"
+			],
+			[
+				"facotry",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/field_value_component_factory.coffee"
+			],
+			[
+				"fields",
+				"backoffice/app/assets/ui/models/fields.coffee"
+			],
+			[
+				"autocompleteparsers",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/autocomplete/autocomplete_parsers.coffee"
+			],
+			[
+				"static_fe",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/static_fields.coffee"
+			],
+			[
+				"session_ses",
+				"backoffice/app/serializers/api/3.2/session_serializer.js"
+			],
+			[
+				"src/models/session.coffee",
+				"dal/src/models/session.coffee"
+			],
+			[
+				"session_con",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"session.co",
+				"dal/src/models/session.coffee"
+			],
+			[
+				"session_ser",
+				"backoffice/app/serializers/api/3.2/session_serializer.js"
+			],
+			[
+				".json",
+				"package.json"
+			],
+			[
+				"upload",
+				"consumers/delayed_work/src/jobs/export_sessions/upload_and_mail_session_csv_file.js"
+			],
+			[
+				"backoffice/package.json",
+				"backoffice/package.json"
+			],
+			[
+				"consumers/consumer_session_post_processing/package.json",
+				"consumers/consumer_session_post_processing/package.json"
+			],
+			[
+				"/wascally-helpers/config/files/rabbitmq/defaults.js",
+				"assets_server/node_modules/@jaco/wascally-helpers/config/files/rabbitmq/defaults.js"
+			],
+			[
+				"general",
+				"consumers/consumer_session_post_processing/src/processors/general.js"
+			],
+			[
+				"defaults",
+				"wascally-helpers/config/files/rabbitmq/defaults.js"
+			],
+			[
+				"upload_f",
+				"consumers/delayed_work/src/jobs/export_sessions/upload_and_mail_session_csv_file.js"
+			],
+			[
+				"0.3.",
+				"consumers/consumer_compressed_events/src/handlers/0.3.js"
+			],
+			[
+				"comressed_ev",
+				"consumers/consumer_compressed_events/src/compressed_events.js"
+			],
+			[
+				"services/session_processing_scheduler/package.json",
+				"services/session_processing_scheduler/package.json"
+			],
+			[
+				"recorder_api/package.json",
+				"recorder_api/package.json"
+			],
+			[
+				"consumers/consumer_timeline_events/package.json",
+				"consumers/consumer_timeline_events/package.json"
+			],
+			[
+				"consumers/consumer_mail_message/package.json",
+				"consumers/consumer_mail_message/package.json"
+			],
+			[
+				"consumers/consumer_identify_events/package.json",
+				"consumers/consumer_identify_events/package.json"
+			],
+			[
+				"consumers/consumer_full_session_events/package.json",
+				"consumers/consumer_full_session_events/package.json"
+			],
+			[
+				"upload_and",
+				"consumers/delayed_work/src/jobs/export_sessions/upload_and_mail_session_csv_file.js"
+			],
+			[
+				"flatbuffers/events_generated",
+				"object_accessors/src/flatbuffers/events_generated.js"
+			],
+			[
+				"consumer-mail",
+				"~/dev/ruadan_single_repo/azk/systems/consumer-mail-message.js"
+			],
+			[
+				"consumers/consumer_mail_message/src/helpers/get_throttling_email_data.js",
+				"consumers/consumer_mail_message/src/helpers/get_throttling_email_data.js"
+			],
+			[
+				"consumers/consumer_mail_message/src/helpers/email_request_helper.js",
+				"consumers/consumer_mail_message/src/helpers/email_request_helper.js"
+			],
+			[
+				"email_request_helper.js",
+				"consumers/consumer_mail_message/src/helpers/email_request_helper.js"
+			],
+			[
+				"consumers/consumer_mail_message/src/jobs/email/send_daily.js",
+				"consumers/consumer_mail_message/src/jobs/email/send_daily.js"
+			],
+			[
+				"before",
+				"~/Downloads/refacotr/before-refactor.txt"
+			],
+			[
+				"replayerheaderview",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/viewport.coffee"
+			],
+			[
+				"serializ",
+				"backoffice/app/serializers/api/3.2/collaborator_serializer.js"
+			],
+			[
+				"send_ma",
+				"consumers/consumer_mail_message/src/cron/send_mail_batch.js"
+			],
+			[
+				"send_mail",
+				"consumers/consumer_mail_message/src/cron/send_mail_batch.js"
+			],
+			[
+				"schema.x",
+				"dal/migrations/solr/sessions_by_session_id/schema.xml"
+			],
+			[
+				"compr",
+				"consumers/consumer_compressed_events/src/compressed_events.js"
+			],
+			[
+				"static_",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/static_fields.coffee"
+			],
+			[
+				"sessoin_contr",
+				"backoffice/app/assets/ui/controllers/sessions_controller.coffee"
+			],
+			[
+				"static_operators",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/static_operators.coffee"
+			],
+			[
+				"feild",
+				"backoffice/app/assets/ui/models/field.coffee"
+			],
+			[
+				"autocomplete_parsers.coffee",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/autocomplete_component/autocomplete_parsers.coffee"
+			],
+			[
+				"autocom",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/autocomplete_component/autocomplete_parsers.coffee"
+			],
+			[
+				"fields.coffee",
+				"backoffice/app/assets/ui/models/fields.coffee"
+			],
+			[
+				"autocomp",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/autocomplete/autocomplete_parsers.coffee"
+			],
+			[
+				"field_value_autocomplete_map.coffee",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/field_value_autocomplete_map.coffee"
+			],
+			[
+				"factory",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/field_value_selector/field_value_component_factory.coffee"
+			],
+			[
+				"session.cof",
+				"dal/src/models/session.coffee"
+			],
+			[
+				"base_session.coffee",
+				"dal/src/models/base_session.coffee"
+			],
+			[
+				"new_filter_menu.less",
+				"backoffice/app/assets/ui/views/pages/sessions/components/current_segment/filters/new_filter_menu/new_filter_menu.less"
+			],
+			[
+				"upload_fil",
+				"consumers/delayed_work/src/jobs/export_sessions/upload_and_mail_session_csv_file.js"
+			],
+			[
+				"throttling.csv",
+				"throttling.csv"
+			],
+			[
+				"sessions_controller",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"sessions_controller.coffee",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"session_contr",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"staging_detection_helpers",
+				"backoffice/app/helpers/staging_detection_helpers.coffee"
+			],
+			[
+				"session_contro",
+				"backoffice/app/controllers/sessions_controller.coffee"
+			],
+			[
+				"throttling",
+				"backoffice/app/assets/ui/models/project_throttling.coffee"
+			],
+			[
+				"model",
+				"assets_server/lib/cassandra/model.js"
+			],
+			[
+				"base_model",
+				"services/throttling/app/models/base_model.js"
+			],
+			[
+				"session_contor",
+				"backoffice/app/controllers/sessions_controller.coffee"
+			],
+			[
+				"project_throttling.coffee",
+				"backoffice/app/assets/ui/models/project_throttling.coffee"
+			],
+			[
+				"thottling",
+				"recorder_api/lib/throttling_service_helpers.js"
+			],
+			[
+				"mail_data",
+				"consumers/consumer_mail_message/src/helpers/mail_data_retriever.js"
+			],
+			[
+				"event.cof",
+				"dal/src/models/event.coffee"
+			],
+			[
+				"session.coffee",
+				"dal/src/models/session.coffee"
+			],
+			[
+				"serializer",
+				"backoffice/app/serializers/api/3.2/session_serializer.js"
+			],
+			[
+				"projects_event_action_and_event_data",
+				"dal/migrations/create_projects_event_actions_and_event_data_and_count.coffee"
+			],
+			[
+				"projects_event_action_and_event_data_and_count",
+				"dal/migrations/create_projects_event_actions_and_event_data_and_count.coffee"
+			],
+			[
+				"serialize",
+				"backoffice/app/serializers/api/3.2/collaborator_serializer.js"
+			],
+			[
+				"replay_controller.coffee",
+				"backoffice/app/assets/ui/controllers/replay_controller.coffee"
+			],
+			[
+				"favoritebutton",
+				"backoffice/app/assets/ui/views/components/favorite_button/favorite_button.coffee"
+			],
+			[
+				"guest_collaborator_authentication",
+				"backoffice/app/middlewares/authentication/guest_collaborator_authentication.js"
+			],
+			[
+				"shared/inde",
+				"backoffice/app/routes/shared/index.coffee"
+			],
+			[
+				"shared_ses",
+				"dal/src/models/shared_session_by_token.coffee"
+			],
+			[
+				"session_user",
+				"backoffice/app/assets/ui/models/session_user_info.coffee"
+			],
+			[
+				"sharedsessionuserinfo",
+				"backoffice/app/assets/ui/models/shared_session_user_info.coffee"
+			],
+			[
+				"window.cof",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee"
+			],
+			[
+				"player/player.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee"
+			],
+			[
+				"window.cofe",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee"
+			],
+			[
+				"dom_snapshot.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/dom_snapshot.coffee"
+			],
+			[
+				"window.",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee"
+			],
+			[
+				"window",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee"
+			],
+			[
+				"desktop.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee"
+			],
+			[
+				"window.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/window.coffee"
+			],
+			[
+				"desk",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee"
+			],
+			[
+				"viewport",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/viewport.coffee"
+			],
+			[
+				"session_cont",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"docker",
+				"backoffice/Dockerfile"
+			],
+			[
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee"
+			],
+			[
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/replay_simulator.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/replay_simulator.coffee"
+			],
+			[
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/replayer_component.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/replayer_component.coffee"
+			],
+			[
+				"sessionuserinfo",
+				"backoffice/app/assets/ui/models/session_user_info.coffee"
+			],
+			[
+				"desktop",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee"
+			],
+			[
+				"deskto",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/simulation/desktop.coffee"
+			],
+			[
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee",
+				"backoffice/app/controllers/api/3.2/sessions_controller.coffee"
+			],
+			[
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee"
+			],
+			[
+				"backoffice/app/assets/ui/controllers/replay_controller.coffee",
+				"backoffice/app/assets/ui/controllers/replay_controller.coffee"
+			],
+			[
+				"player.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee"
+			],
+			[
+				"/sessions_controller.coffee",
+				"backoffice/app/controllers/sessions_controller.coffee"
+			],
+			[
+				"viewpo",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/viewport.coffee"
+			],
+			[
+				"window_cl",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/event_handlers/window_close.coffee"
+			],
+			[
+				"viewport_",
+				"recorder_client/src/recording/observers/viewport_observer.js"
+			],
+			[
+				"viewpost",
+				"recorder_client/src/recording/observers/viewport_observer.js"
+			],
+			[
+				"replay_simulator.coffee",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/replay_simulator.coffee"
+			],
+			[
+				"playerui",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player_ui.coffee"
+			],
+			[
+				"player.c",
+				"backoffice/app/assets/ui/views/pages/replayer/components/replayer_component/lib/player/player.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
