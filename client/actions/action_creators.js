@@ -9,11 +9,11 @@ export function increment(index) {
 
 // add comment
 
-export function addComment(postId, auther, comment) {
+export function addComment(postId, author, comment) {
   return {
-    type: 'ADD_COMMNET',
+    type: 'ADD_COMMENT',
     postId,
-    auther,
+    author,
     comment
   }
 }
