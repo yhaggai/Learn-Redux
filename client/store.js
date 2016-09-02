@@ -12,7 +12,8 @@ import posts from './data/posts';
 
 const defaultState = { posts, comments };
 
-const store = createStore(rootReducer, defaultState);
+const store = createStore(rootReducer, defaultState, window.devToolsExtension && window.devToolsExtension());
+// const store = createStore(rootReducer, defaultState);
 
 // what does it mean exactly
 export const history = syncHistoryWithStore(browserHistory, store);
